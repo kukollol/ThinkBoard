@@ -46,7 +46,7 @@ thinkk/
 
 2. **Configure environment:**
 
-   - Copy `.env.example` to `.env` and set:
+   - Create `.env` file and set:
      ```
      MONGO_URI=your_mongodb_connection_string
      PORT=3000
