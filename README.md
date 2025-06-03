@@ -14,7 +14,6 @@ thinkk/
     middleware/
     models/
     Routes/
-    .env
     package.json
     server.js
     ...
